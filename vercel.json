@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/.well-known/nullpoint-verification.txt",
-      "destination": "/.well-known/nullpoint-verification.txt"
+      "destination": "/nullpoint-verification.txt"
     }
   ]
 }
